@@ -2,6 +2,8 @@
 
 A stateless REST API backend built with Laravel 13, Sanctum authentication, Redis queue workers, and Laravel Reverb for real-time WebSockets event broadcasting.
 
+Looking for the frontend application? Visit the [Billing Frontend Repository](https://github.com/quitenoisemaker/billing-frontend).
+
 ---
 
 ## Technical Stack & Services
